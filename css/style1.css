@@ -1,0 +1,150 @@
+.navbar-nav{
+    justify-content:center;
+    flex: auto;
+    font-size:20px;
+    font-family: 'Luxurious Roman', cursive;
+}
+.navbar a{
+    color: white;
+}
+.navbar img{
+    height: 40px;
+}
+.header-sec form{
+    font-family: 'Luxurious Roman', cursive;
+    padding: 10px;
+    color: white;
+}
+.header-sec nav,.banner-sec{
+      background-image: linear-gradient(to right,#f22c42,#ed7013);
+} 
+.banner-sec h3{
+    font-family: 'Luxurious Roman', cursive;
+    font-weight: bold;
+    margin-top: 20px;
+    color: white; 
+}
+.banner-sec img{
+    height: 250px;
+    width: 100%;
+    transform: scaleX(-1);
+}
+.banner-sec p{
+    margin-top: 20px;
+    font-size: 18px;
+    color: white; 
+    font-family: 'Luxurious Roman', cursive;
+    line-height: 1.7;
+}
+ .details-sec a{
+    color: black;
+}
+.details-sec h5{
+    font-family: 'Luxurious Roman', cursive;
+    color: black;
+}
+.details-sec h6{
+font-family: 'Luxurious Roman', cursive;
+color: black;
+ }
+ 
+.details-sec{
+    margin-top: 40px;
+}   
+.details-sec a{
+    font-family: 'Luxurious Roman', cursive;
+}
+.form{
+    box-shadow: 1px 1px 1px 1px  grey;
+    height: 470px;
+    font-family: 'Luxurious Roman', cursive;
+    text-align: start;
+    padding-top: 18px;
+    padding-left: 38px;
+    padding-right: 38px;
+    background-color: white;
+}
+.submit-sec{
+font-family: 'Luxurious Roman', cursive;
+}
+.icofont-instagram{
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;
+}
+.icofont-twitter{
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;
+}
+.icofont-linkedin{
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;
+}
+.icofont-facebook{
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;
+}
+.icofont-dribbble{
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;
+}
+.icofont-youtube-play{
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;
+}
+.footer-sec{
+    color: white;
+    font-family: 'Luxurious Roman', cursive;
+    margin-top: 50px;
+}
+.footer-sec img{
+height: 40px;
+}
+.footer-sec li{
+    line-height: 2.4;
+    color: black;
+}
+.end-sec{
+background-color: white;
+color: black;
+padding-top: 20px;
+padding-bottom: 20px;
+font-family: 'Luxurious Roman', cursive;
+}
+.mail{
+    margin-bottom: 10px;
+    
+}
+.contact-sec{
+    margin-bottom: 10px;
+   
+}
+.address{
+    margin-bottom: 10px;
+}
+.submit-sec{
+    text-align: center;
+}
+
+@media(min-width:320px) and (max-width:576px){
+.header-sec button{
+    font-size:10px;
+}
+}

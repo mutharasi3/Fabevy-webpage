@@ -1,0 +1,205 @@
+.header-sec img{
+    height: 20px;
+}
+.banner-sec{
+    margin-top: 40px;
+
+}
+.banner-sec img{
+    height: 200px;
+}
+.header-sec{
+    background-color: orange;
+}
+.header-sec button{
+    margin-top: 5px;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: yellow;
+    
+}
+.contact-sec img{
+    height: 60px;
+    width: 60px;
+}
+.contact-sec img{
+    padding: 40px;
+}
+.details{
+    box-shadow: 1px 1px 1px 1px solid black;
+    text-align:justify;
+}
+.communication img{
+    height: 30px;
+    width: 25px;
+}
+.communication{
+    padding:90px 150px;
+}
+.mail{
+    box-shadow: 2px 2px 2px 2px  grey;
+    background-color: white;
+    height: 220px;
+   
+    padding-left: 65px;
+}
+.mail img{
+    margin-top: 40px;
+margin-left: 40px;
+border: 2px solid violet;
+padding-top:5px ;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+border-radius: 70%;
+
+}
+.mail h3{
+    padding-top: 30px;
+    font-size: 20px;
+    padding-left: 25px;
+}
+.mail a{
+    color: black;
+}
+.telephone img{
+    margin-top: 40px;
+    margin-left: 120px;
+    border: 2px solid violet;
+    padding-top:5px ;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+border-radius: 70%;
+}
+.telephone h3{
+    
+    padding-top: 30px;
+    font-size: 20px;
+    padding-left: 50px;
+}
+.telephone a{
+    color: black;
+    padding-left: 60px;
+}
+.telephone{
+    
+    box-shadow: 2px 2px 2px 2px  grey;
+    background-color: white;
+    height: 220px;
+    
+    padding-left: 2px;
+}
+.address img{
+    margin-top: 50px;
+    margin-left: 180px;
+    border: 2px solid violet;
+    padding-top:5px ;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-right: 5px;
+border-radius: 70%;
+}
+.address h3{
+    padding-top: 30px;
+    font-size: 22px;
+    margin-left: 130px;
+}
+.address a{
+    color: black;
+margin-left: 40px;
+}
+.address{
+    margin-top: 30px;
+    box-shadow: 2px 2px 2px 2px  grey;
+    background-color: white;
+    height: 220px;
+    width: 514px;
+    padding-left: 65px;
+}
+.form{
+    height: 300px;
+    margin-left: 80px;
+    
+    }
+    .form{
+        margin-left: 15px;
+        box-shadow: 2px 2px 2px 2px  grey;
+        background-color: white;
+        height: 470px;
+        
+        text-align: start;
+        padding-top: 18px;
+        padding-left: 38px;
+        padding-right: 38px;
+    }
+.submit-sec{
+    text-align: center;
+    border-top: 0;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    
+    border-radius: 40%;
+   color: yellow;
+}
+
+.footer-sec{
+    margin-top: 30px;
+    }
+    .footer-sec li{
+        line-height: 2.4;
+    }
+.footer-sec img{
+    padding-left: 120px;
+    height: 30px;
+}
+
+.icofont-instagram{
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;
+}
+.icofont-twitter{
+    
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;
+}
+.icofont-linkedin{
+    
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;
+}
+.icofont-facebook{
+    
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;
+}
+.icofont-dribbble{
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;}
+.icofont-youtube-play{
+    border: 2px solid grey;
+    border-radius: 70%;
+    padding: 3px 3px;
+    background-color: grey;
+    margin-right:20px;}
+}
